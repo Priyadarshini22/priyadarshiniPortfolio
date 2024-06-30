@@ -1,5 +1,5 @@
 import { nanoid } from 'nanoid';
-import { FaHtml5, FaJs, FaReact, FaGlobe } from 'react-icons/fa';
+import { FaHtml5, FaJs, FaReact, FaGlobe, FaDatabase } from 'react-icons/fa';
 
 export const links = [
   { id: nanoid(), href: '#home', text: 'home' },
@@ -32,7 +32,13 @@ export const skills = [
     title: 'NET',
     icon: <FaGlobe className='h-16 w-16 text-emerald-500' />,
     text: 'Proficiency in .NET, developing efficient API endpoints with a strong business logic',
-  }
+  },
+  {
+    id: nanoid(),
+    title: 'SQL',
+    icon: <FaDatabase className='h-16 w-16 text-emerald-500' />,
+    text: 'Experiece in SQL, developing inner, outer and left join queries for fetching, insert and modify table data',
+  },
 ];
 
 export const projects = [
