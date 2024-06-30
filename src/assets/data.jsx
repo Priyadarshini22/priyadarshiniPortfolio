@@ -32,13 +32,7 @@ export const skills = [
     title: 'NET',
     icon: <FaGlobe className='h-16 w-16 text-emerald-500' />,
     text: 'Proficiency in .NET, developing efficient API endpoints with a strong business logic',
-  },
-  {
-    id: nanoid(),
-    title: 'SQL',
-    icon: <FaDatabase className='h-16 w-16 text-emerald-500' />,
-    text: 'Proficiency in .NET, developing efficient API endpoints with a strong business logic',
-  },
+  }
 ];
 
 export const projects = [
