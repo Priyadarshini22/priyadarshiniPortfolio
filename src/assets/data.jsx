@@ -37,7 +37,7 @@ export const skills = [
     id: nanoid(),
     title: 'SQL',
     icon: <FaDatabase className='h-16 w-16 text-emerald-500' />,
-    text: 'Experiece in SQL, developing inner, outer and left join queries for fetching, insert and modify table data',
+    text: 'Experience in SQL, developing inner, outer and left join queries for fetching, insert and modify table data',
   },
 ];
 
