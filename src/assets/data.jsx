@@ -32,7 +32,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: 'https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=800',
+    img: 'https://img.freepik.com/free-photo/fresh-cocktails-with-ice-lemon-lime-fruits-generative-ai_188544-12370.jpg',
     url: 'https://mixmaster2024.netlify.app/',
     github: 'https://github.com/john-smilga',
     title: 'MixMaster',
@@ -40,7 +40,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: 'https://images.pexels.com/photos/2148222/pexels-photo-2148222.jpeg?auto=compress&cs=tinysrgb&w=800',
+    img: 'https://img.freepik.com/free-vector/flat-design-kanban-illustration_23-2149337644.jpg?size=338&ext=jpg&ga=GA1.1.1546980028.1719619200&semt=ais_user',
     url: 'https://taskmanagement2024.netlify.app',
     github: 'https://github.com/john-smilga',
     title: 'Task Management',

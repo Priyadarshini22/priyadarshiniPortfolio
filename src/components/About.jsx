@@ -9,7 +9,7 @@ const About = () => {
         <article>
             <SectionTitle text={"code and coffee"}/>
             <p className='text-slate-600 mt-8 leading-loose'>
-                 Lorem ipsum
+            I have 2.5 years of experience as a Software Developer. I have experience working in both an MNC and a startup. I am good enough to handle the task assigned to me. 
             </p>
         </article>
         </div>
